@@ -20,4 +20,4 @@ A simple utility package that provides useful array operation methods without re
 You can install the package using npm:
 
 ```bash
-npm install npm-pakage
+npm install array-operations-by-ganesh
